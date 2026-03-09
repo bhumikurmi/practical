@@ -4,8 +4,8 @@
 
 | Name | Enrollment Number | Practical Set |
 |------|------------------|---------------|
-| Bhumi Kurmi | Your Enrollment No | Set B |
-| Partner Name | Partner Enrollment | Set A |
+| Bhumi Kurmi | 202504104610055 | Set B |
+| Vinit Bawjee |202504104610014  | Set A |
 
 ---
 
